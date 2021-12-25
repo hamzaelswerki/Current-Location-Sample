@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "466142163552",
+    "project_id": "finddoorapp",
+    "storage_bucket": "finddoorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466142163552:android:9cb866e92fa79921ad8905",
+        "android_client_info": {
+          "package_name": "com.example.adminfinddoorr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466142163552-f7hn45u30upief1gu6t7tlfsnos401re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsV4-Tr5fozj-4nRvWwpTX9bq0RNY448"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466142163552-f7hn45u30upief1gu6t7tlfsnos401re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466142163552:android:cbc6b10b634c5400ad8905",
+        "android_client_info": {
+          "package_name": "com.example.finddoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466142163552-f7hn45u30upief1gu6t7tlfsnos401re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsV4-Tr5fozj-4nRvWwpTX9bq0RNY448"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466142163552-f7hn45u30upief1gu6t7tlfsnos401re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
